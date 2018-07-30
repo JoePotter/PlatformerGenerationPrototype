@@ -7,8 +7,11 @@ No enemies or further mechanics are included within this version of the project,
 
 # Controls
 A and D: Move player left and right
+
 Space: Jump and Double Jump (can also slide along and jump up vertical walls)
+
 Left click: Shoot weapon
+
 Right click: Slow-motion (Only when airborne)
 
 Escape: Generate a new level and reposition the player
